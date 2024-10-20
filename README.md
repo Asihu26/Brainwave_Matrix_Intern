@@ -6,6 +6,7 @@ Importing Libraries
 
 
 //* import java.util.ArrayList;
+
 //* import java.util.Scanner;
 
 
@@ -26,10 +27,15 @@ Static Variables
 
 
 static ArrayList<String> user = new ArrayList<>();
+
 static ArrayList<String> mails = new ArrayList<>();
+
 static ArrayList<String> phnno = new ArrayList<>();
+
 static ArrayList<String> pas = new ArrayList<>();
+
 static ArrayList<Integer> acc = new ArrayList<>();
+
 static Scanner scanner = new Scanner(System.in);
 
 
